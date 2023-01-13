@@ -1,3 +1,3 @@
 # PythonUtilidades
  
-Python utilities to use after
+Useful Python projects
